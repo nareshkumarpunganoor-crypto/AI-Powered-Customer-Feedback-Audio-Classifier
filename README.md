@@ -22,7 +22,7 @@
 
 🚀 **Try the application online:**
 
-👉 **https://personal-finance-prediction-budget.onrender.com**
+👉 **https://nrszn3-myd3u4zan-arcadawebapps2.vercel.app/**
 
 The application is designed to help users understand their financial behavior, analyze spending patterns, predict future expenses, and make better budgeting decisions.
 
